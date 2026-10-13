@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 ua = UserAgent()
 
 # এখানে আপনার টেলিগ্রাম বটের টোকেনটি বসাবেন
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+BOT_TOKEN = "8839021723:AAFib_iY33KB6h7-c-m0MS7_vkZux3RCoRw"
 
 def get_instagram_ua(locale="en_US"):
     devices = [
